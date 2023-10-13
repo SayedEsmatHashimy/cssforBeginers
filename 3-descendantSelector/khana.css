@@ -1,0 +1,51 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid greenyellow;
+    outline: 20px solid red;
+    outline-offset: 3px;
+}
+.koar{
+border:  2px solid grey;
+padding: 10px;
+margin:3px ;
+}
+.koar p{
+    margin: 0;
+    padding: 20px;
+border:  3px solid green;
+}
+#khana{
+border: goldenrod solid 3px;
+padding: 5px;
+margin: 10px 0 0 20px;
+}
+#khana p{
+    margin: 0;
+    padding: 4px 5px 0px 10px;
+border: 3px orchid solid;
+}
+#khana p strong{
+background-color: navy;
+color: white;
+}
+.main{
+border: 4px teal solid;
+margin: 10px;
+outline: 5px solid orangered;
+outline-offset: 3px;
+padding: 0px 13px 0px 15px;
+}
+.main p{
+border: 3px olive solid;
+margin: 5px;
+padding: 5px;
+}
+.main p span{
+background-color: rosybrown;
+color: white;
+font-size: large;
+}
+.main p strong{
+background-color: orangered;
+}

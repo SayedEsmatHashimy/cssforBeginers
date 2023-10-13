@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+
+}
+h3{
+    margin: 0;
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 9px;
+}
+.koar{
+    padding: 8px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bolder;
+    background-color: plum;
+    color: blue;
+    margin: 8px;
+}
+.koar p{
+    margin: 0;
+    padding: 7px;
+    border: 3px groove cornflowerblue;
+    border-radius: 9px;
+    box-shadow: 4px 3px 5px 4px rebeccapurple inset;
+    outline: 4px dotted darkmagenta;
+    outline-offset: 3px;
+}
+.khana{
+    margin: 5px;
+    padding: 5px;
+    background-color: peru;
+    border-radius: 12px;
+    font-weight:bold;
+    color: white;
+}
+.khana p{
+    text-indent: 20px;
+    text-align: justify;
+    text-align-last: center;
+    text-transform: capitalize;
+}
+.textDecoraction{
+    margin: 8px;
+    padding: 8px;
+    border: 3px solid forestgreen;
+    background-color: powderblue;
+    text-align: center;
+    text-align-last: left;
+    text-indent: 30px;
+    font-weight: bold;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-decoration: underline blueviolet solid;
+}
+.textDecoraction h4{
+    margin: 0;
+    padding: 10px;
+    color: blue;
+    text-decoration: overline yellow wavy;
+}

@@ -1,0 +1,91 @@
+h5{
+ text-align: center;
+ font-size: 20px;
+ margin: 0;
+ padding: 0;
+ background-color: royalblue;
+ color: aliceblue;
+ font-style: italic;
+ border-radius: 10px;
+}
+.koar{
+border: 6px solid royalblue;
+margin: 10px;
+padding: 10px;
+background-color: rebeccapurple;
+color: white;
+width: 210px;
+height: 120px;
+
+border-radius: 10px;
+box-shadow: 4px 4px 5px 5px yellow,-4px -4px 5px 5px rebeccapurple;
+float: left;
+}
+.koar p{
+border: 4px ridge red;
+padding: 5px;
+margin: 0;
+box-sizing: border-box;
+
+}
+.onther{
+
+    margin: 10px;
+    padding: 10px;
+border: 6px solid forestgreen;
+box-shadow: 4px 4px 5px 5px yellow,-4px -4px 5px 5px rebeccapurple;
+border-radius: 10 px;
+clear: both;
+overflow: auto;
+}
+.onther p{
+    margin: 0px;
+    padding: 7px;
+    box-sizing: border-box;
+border: 4px groove red;
+/* outline: 6px double yellowgreen;
+outline-offset: 4px; */
+
+}
+.khana{
+
+    border: 6px solid royalblue;
+    margin: 10px;
+    padding: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    width: 210px;
+    height: 120px;
+    
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px 5px yellow,-4px -4px 5px 5px rebeccapurple;
+    float: left;
+    }
+}
+.khana>p{
+    margin: 3px;
+    padding: 7px;
+    
+border: 4px groove red;
+outline: 6px double yellowgreen;
+outline-offset: 4px;
+width: 210px;
+height: 120px;
+}
+.onther .onther-1 p{ 
+width: 210px;
+height: 120px;
+background-color: red;
+float: left;
+}
+.onther .css p{
+    width: 210px;
+height: 120px;
+float: right;
+
+}
+.onther .html p{
+    width: 310px;
+    height: 120px;
+    clear: both;
+}

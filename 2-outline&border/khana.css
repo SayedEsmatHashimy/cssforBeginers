@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 10px 20px ;
+}
+p{
+    margin-top: 10px;
+    background-color: aquamarine;
+    border: 2px solid red;
+    outline: 4px dotted dodgerblue;
+    outline-offset: 4px;
+}

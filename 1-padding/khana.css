@@ -1,0 +1,8 @@
+p{
+    border: 3px solid red;
+   /* padding-top: 10px;
+   padding-right: 20px;
+   padding-left:  40px;
+   padding-bottom: 20px; */
+   padding:  10px 20px 40px 20px;
+}

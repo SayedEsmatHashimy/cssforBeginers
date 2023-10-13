@@ -1,0 +1,45 @@
+h4{
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    color: #ececec;
+    font-style: italic;
+    border: 3px solid red;
+    font-size: large;
+}
+.koar{
+border: 3px solid rebeccapurple;
+padding: 10px;
+margin: 0px;
+width: 140px;
+}
+.koar p{
+background-color: olive;
+color: antiquewhite;
+border: 4px solid green;
+padding: 5px;
+margin: 0;
+outline: 5px groove fuchsia;
+outline-offset: 3px;
+}
+.khana{
+border: 3px groove goldenrod;
+margin: 20px;
+width: 300px;
+background-color: #ececec;
+box-sizing: border-box;
+padding: 20px;
+outline: 4px solid black;
+outline-offset: 3px;
+}
+.khana p{
+padding: 0;
+margin: 0;
+border: 3px groove darkcyan;
+outline: 4px solid forestgreen;
+outline-offset: 0.5rem;
+background-color: khaki;
+font-style: italic;
+text-align: center;
+
+}

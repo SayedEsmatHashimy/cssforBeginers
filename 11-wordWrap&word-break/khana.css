@@ -1,0 +1,61 @@
+body{
+padding: 0;
+margin: 0;
+background-color: darkgray;
+font-size: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-style: oblique;
+}
+h4{
+margin: 0;
+padding: 0;
+text-align: center;
+letter-spacing: 4px;
+font-size: 1.5em;
+}
+.koar{
+border: 4px groove goldenrod;
+padding: 10px;
+margin: 3px;
+width: 100px;
+height: 160px;
+background-color: wheat;
+box-sizing: border-box;
+
+font-weight: bold;
+float: right;
+
+
+}
+.koar p{
+padding: 3px;
+text-align: center;
+
+}
+.khana{
+    border: 4px groove goldenrod;
+    padding: 10px;
+    margin: 3px;
+    width: 100px;
+    height: 160px;
+    background-color: wheat;
+    box-sizing: border-box;
+
+    font-weight: bold;
+    float: left;
+    word-wrap: break-word;
+}
+.khana p{
+    padding: 3px;
+    text-align: center;
+}
+.another{
+    clear: both;
+    font-size: 3.30em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 20px 3px black,
+                 6px 40px 2px red,
+                 12px 60px 4px green;
+    color: aliceblue;
+   
+}
